@@ -12,4 +12,5 @@ The matlab implementation of the following paper:
 }
 
 
+Notice: The source code is permitted to use only for research and non-commercial activities. 
 If you have any question, please feel free to contact us via tiantian.he@outlook.com.
